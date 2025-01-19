@@ -4,7 +4,6 @@ class Solution:
         if len(nums1) >  len(nums2):
             nums1, nums2 = nums2, nums1
 
-        my_list = []
         for item in nums1:
             left  = 0
             right = len(nums2) - 1
