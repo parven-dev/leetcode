@@ -33,5 +33,10 @@ class Solution:
         return min_value
 
 
+root  = [4,2,6,1,3]  
+s1 = Solution()
+print(s1.getMinimumDifference())
+
+
 
         
