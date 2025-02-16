@@ -1,6 +1,4 @@
-# Definition for a binary tree node.
 
-# from collections import Counter
 class TreeNode:
     def __init__(self, val):
         self.val = val
